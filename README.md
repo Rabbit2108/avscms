@@ -15,4 +15,4 @@ AVSCMS！是一个内容管理系统 (CMS)，可让您构建网站和强大的�
 AVSCMS! 现在是根据 GNU 通用公共许可证 v3.0 或更高版本分发的免费开源软件。
 
 
-demo （https://demo.avscms.com/）
+demo (https://demo.avscms.com)
